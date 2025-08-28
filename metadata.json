@@ -1,0 +1,6 @@
+{
+  "name": "PicMagic",
+  "description": "A powerful, AI photo editor and generator. Retouch, apply creative filters and styles, and make professional adjustments to your images using simple text prompts.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
