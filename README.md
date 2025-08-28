@@ -1,4 +1,4 @@
-# Pixshop - AI Photo Editor & Creator
+# PicMagic - AI Photo Editor & Creator
 
 ![Pixshop](https://img.shields.io/badge/Pixshop-AI_Photo_Editor-blue?style=for-the-badge&logo=react)
 
